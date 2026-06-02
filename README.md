@@ -1,2 +1,1 @@
-# caizar-store
-A luxury Mini App Store of Caizer
+A Luxury Mini App Store
